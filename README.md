@@ -4,6 +4,8 @@ I'm an ISTQB cerified Test Automation Engineer.
 
 📮 You can reach me at https://www.linkedin.com/in/jancsol
 
+🛠 The site is under construction. Please, come back later to see developments.
+
 <!--
 **jancso-l/jancso-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
