@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an ISTQB cerified Test Automation Engineer.
+👨🏻‍💻 I'm an ISTQB cerified Test Automation Engineer.
 
 📮 You can reach me at https://www.linkedin.com/in/jancsol
 
