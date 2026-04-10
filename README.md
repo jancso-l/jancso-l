@@ -4,7 +4,7 @@
 
 📮 You can reach me at https://www.linkedin.com/in/jancsol
 
-🛠 The site is under construction. Please, come back later to see developments.
+🏭 Please, take a look around and see what I've been working on recently.
 
 <!--
 **jancso-l/jancso-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
